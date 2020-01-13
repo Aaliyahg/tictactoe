@@ -1,5 +1,5 @@
-
-
+let player= "x"
+let turn= 0
 
 
 
